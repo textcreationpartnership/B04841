@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The probable reaons why the fire that began in the city of Edinburgh the 3. of February 1700, did so suddenly spread, both with and against the wind, and was not sooner stopt; with some proposals how to prevent the like for the future.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04841</idno><idno type="EEBO-CITATION">53299217</idno>
+  <idno type="VID">179955</idno>
+  <idno type="EEBO-PROQUEST">2240873857</idno>
+  
+            <idno type="STC">Wing P3542</idno>
+            <idno type="STC">ESTC R182127</idno>
+            <idno type="OCLC">53299217</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B04841)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179955)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2809:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The probable reaons why the fire that began in the city of Edinburgh the 3. of February 1700, did so suddenly spread, both with and against the wind, and was not sooner stopt; with some proposals how to prevent the like for the future.</title>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the heirs and successors of Andrew Anderson ...,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>Anno Dom 1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: creased, print show-through with slight loss of text</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Fires --  Scotland --  Edinburgh --  Early works to 1800.</term>
+               <term type="topical_term">Fire prevention --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="list_of_causes_of_Edinburgh_fire">
+            <pb n="1" facs="tcp:179955:1"/>
+            <head>The Probable REASONS Why the Fire that began in the City of <hi>Edinburgh</hi> the 3. of <hi>February</hi> 1700, did so suddenly spread, both with and against the Wind, and was not sooner stopt; with some <hi>Proposals</hi> how to prevent the like for the future.</head>
+            <p>THE said Fire having first broke out in the East-most Turnpike that leads to and from the <hi>Meal-mercat,</hi> which is near the centre of those splendid Fabricks, now lying in Ashes.</p>
+            <list>
+               <item>1. The first Reason of its spreading so suddenly, and so far as it hath done, is, That most of the Lodgings and Tenements were possessed by Noblemen, Members of the Colledge of Justice, and prin<g ref="char:EOLhyphen"/>cipal Burgers, who had their several Houses richly furnished with Houshold-Furniture, which they were so mindful to preserve, that they employed most of the Tradesmen and Work-people (who should have been employed to extinguish the Fire) in saving of their Goods.</item>
+               <item>2. The most part of the Houses being Boxed with sawen Fir-Dales, and most of the Safe-Lintels of Doors and Windows being of Timber, which hath communication with the Lath and Geisting, and the Geisting very slen<g ref="char:EOLhyphen"/>der, the Fire getting entry upon the Boxing, it makes a violent Flame, enters the Lath and Geisting above, and of a sudden brings down the Flooring, and from one to another, till all the Tenement be destroyed, so that few dare adventure to enter a House where the Fire gets entry upon the Boxing.</item>
+               <item>3. The Houses being so prodigious high, as some of these were, &amp; some strait Entries is a terrour to Work-people to enter or come near them when in Fire, fearing the Walls to fall upon them.</item>
+               <item>4. The Tradesmen and others, who have been active and instrumental in extinguishing Fires in <hi>Edinburgh,</hi> to the hazard of their Lives and Limbs, ha<g ref="char:EOLhyphen"/>ving been neglected (by those who reapt the benefit of their Labour, by ha<g ref="char:EOLhyphen"/>ving their Lands and Goods preserved,) not being Gratified, is the occasion that so few are active at such Occasions.</item>
+            </list>
+         </div>
+         <div type="list_of_measures_for_preventing_fire">
+            <pb n="2" facs="tcp:179955:2"/>
+            <head>OVERTURES <hi>for preventing the spreading of accidental Fire, that may happen within the City of</hi> Edinburgh, <hi>or any other Town.</hi>
+            </head>
+            <list>
+               <item>1. THat all Boxing of Houses be discharged, except Windows and Chim<g ref="char:EOLhyphen"/>ney-pieces; and that all Safe-Lintels over Doors or Windows be ordered to be of Stone.</item>
+               <item>2. That as the Estates of Parliament, out of their prudent and paternal Care, hath made several Acts against the Prodigality of Apparel, alswell for promoting the Manufactories of the Kingdom, as to keep Money therein, that was unnecessarly employed abroad; so likewise, they may consider the Pro<g ref="char:EOLhyphen"/>digality of late, in furnishing of Houses with all sorts of rich Furniture, and the Consequences thereof, and Regulat the same; and that in place of Boxing of Rooms, the Inhabitants may be obliged to hang their Rooms with Woollen-Hangings, and others not combustable, being of the Manufactory of the Kingdom, except for the use of the Nobility, or such others as the Par<g ref="char:EOLhyphen"/>liament thinks fit to indulge.</item>
+               <item>3. That all Houses to be Built or Rebuilt in <hi>Edinburgh,</hi> be Geisted with good Square Geists, of a competent thickness, <hi>Viz.</hi> Six Inches thick, and Eight Inches deep at the smallest end; &amp; if the House or Rooms be above Eighteen Foot wide betwixt Walls, the Geists ought to be squarer, that they may have strength to resist Fire for some time.</item>
+               <item>4. That all Houses be sufficiently Plastered before any Boxing of Windows or Chimney-pieces be fixed, so that there be no Communication betwixt the Boxing and Lath or Geisting.</item>
+               <item>5. That when any Fire shall happen to break out, the Neighbourhood, or other Inhabitants for the time may be discharged to remove their Plenishing, until first they lay apart as many Fether-Beds, and coursest of their Wollen-Furniture as will stop the Windows of their Houses that appears any ways to be in hazard, with some of the coursest of their Bed-plades to help to cover Roofs, or Timber Fore-Stairs, if needful.</item>
+               <item>6. That every Family that lives in a high House, and particularly those that live in Timber Lands, that they provide for their own Security, als many strong Cords as will go double from their Windows to the Street, with some allowance for tying within, and sloping it to the Street, that thereby they may not only convoy down their Plenishing deliberatly, but also any person that may chance to stay in the House till the Fire enter upon the House where he is.</item>
+               <item>7. <p>That the Hight of the Buildings may be strictly observed conform to the late Act of Parliament anent Building, and that where there is any Communi<g ref="char:EOLhyphen"/>cation through a middle Wall, or from one Lodging to another, that both Cheeks, Solls and Lintals of the Doors be of Stone, and that the Doors there<g ref="char:EOLhyphen"/>of be made double and strong, and hung upon Iron Crooks.</p>
+                  <pb n="3" facs="tcp:179955:2"/>
+                  <p> If the hight of these Fabricks of the Tenements last burnt be restricted, then those who had the uppermost Stories will lose their Property, and for supplying of this Loss, ther's a necessity that some Fond might be made, out of which their Loss ought to be compensed, and the most fesible Fond the Author hath thought upon is; That if the Estates of Parliament will out of their Bounty give their Concurrance and Assistance, in gratifying such as will lose their Property (in the Burnt-Lands by restricting the Hight) and for the Conveniency of most of the Leidges resorting to <hi>Edin<g ref="char:EOLhyphen"/>burgh.</hi> There was a Project some years ago, to have had a Street leading from the High-Street to <hi>M<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>utresehill,</hi> and to be near upon a Lavel, razing the Houses on both sides of <hi>Halkerstouns-Wynd,</hi> and erecting new Lodgings on both sides, but the Purchass being too heavy for privat Men, it went no far<g ref="char:EOLhyphen"/>der; But it's supposed that a Fond of 7000 <hi>lib. sterl.</hi> might purchase all the Houses, and help to lavel the Street, and gratify some of those Persons who will come short of their Houses. If this can be acceptable to the Estates of Parliament, to lay down a Fond to answer the above mentioned Design, <hi>Edinburgh</hi> might in few years be capable to accommodat the Leidges better than formerly, and have a more accessible Entry to and from the West, North and East, than ever they had before.</p>
+               </item>
+               <item>8. That Encouragement may be given to Trades-men and others, that shall happen to be active in extinguishing <hi>Fire,</hi> and that out of a Tax to be laid on upon the neighbouring Lands, and particularly upon those that were most in hazard, which they by their Care and Forewardness shall help to preserve, and that if any by their forewardness shall happen to lose their Lives or Limbs, there ought to be a Pension allowed to the Lame, and to the Widow <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d Infants of the Dead, but the Town of <hi>Edinburgh</hi> believed to be at the first ad<g ref="char:EOLhyphen"/>vance of such Gratifications.</item>
+               <item>9. That the Incorporations, as well the Merchants-Hall as Trades, do list and have in readiness, at all time when Fire shall happen, a Hundred good Men to wait upon the Magistrats, and to obey their Commands so soon as the first notice of Fire is given, &amp; the Corporations are to furnish their Proportions of the said Hundred Men, or more if thought fit, according to the Strength and Number of the several Incorporations, and proportionally: And for this end, the Magistrats or the Incorporations themselves, ought to provide all Sorts of Instruments and Machines for Beating and Pulling down of Houses, and for extinguishing the Fire.</item>
+            </list>
+            <p>These Proposals are offered out of respect to the Interest of the King<g ref="char:EOLhyphen"/>dom in general, and to the City of <hi>Edinburgh</hi> in particular, by one who hath no particular Design of his own, hoping that wherein he is defective, others will not only supply it as to their Advice for Preservation of what is, or may be bult, but will give their Advice anent the Regulation of the Fabricks to be built, and that either in Print or in Writings, to be given in to the Lord Provost and Council of <hi>Edinburgh.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heirs and Successors of <hi>Andrew Anderson,</hi> Printer to the King's most Excellent Majestie, <hi>Anno DOM</hi> 1700.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
